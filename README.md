@@ -12,4 +12,4 @@ Install cypress to SO:
 
 Run cypress headless:
 
-npx cypress run --headless --spec "cypress/integration/monkey_testing_ripper.spec.js"
+npx cypress run --headless --spec "cypress/integration/monkey_testing_todoist.spec.js"
